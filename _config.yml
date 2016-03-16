@@ -1,0 +1,28 @@
+name: nicholastennison
+favicon: null
+layout_spectrum: 0.016680131433531642
+typography_spectrum: 0.9428883919026703
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#B8B42D'
+    - '#697A21'
+    - '#FFFCE8'
+    - '#3E363F'
+    - '#DD403A'
+  brandStrength: 0.24551475583575666
+  lightness: 0.8753172596916556
+  saturation: 0.8198689850978553
+  rhythmicContrast: 0.2217006147839129
+purpose: []
